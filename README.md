@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msalbrain" alt="msalbrain" /></a> </p>
 
-- 🔭 I’m currently working on [the next unicorn 🤞🏿](private for now)
-
 - 👨‍💻 All of my projects are available at [[My Repo](https://github.com/msalbrain?tab=repositories)]([My Repo](https://github.com/msalbrain?tab=repositories))
 
 - 📝 I iregularly write articles on [https://salbrain.hashnode.dev/](https://salbrain.hashnode.dev/)
